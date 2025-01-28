@@ -20,6 +20,6 @@
 <!--   <a href="https://www.youtube.com/@BetooFarias" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/_beto.farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "beto.thedark@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/josé-alberto-b-farias-575b41108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--   <a href = "beto.thedark@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="www.linkedin.com/in/josé-alberto-b-farias-575b41108" target="_blank"><img src="https://www.linkedin.com/in/jos%C3%A9-alberto-b-farias-575b41108/?trk=opento_sprofile_topcard" target="_blank"></a>
 </div>
