@@ -1,6 +1,6 @@
 # 👨‍💻 José Alberto B Farias
 
-👋 Olá, Me chamo José Alberto, tenho 34 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, Estudante da área de programação, estou em busca de migrar de área como desenvolvedor web Front-end/Back-end, focando meus estudos em aperfeiçoar meu conhecimento em HTML, CSS, JavaScript e React. 🚀 <br> 
+👋 Olá, Me chamo José Alberto, tenho 34 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, Estudante de programação, estou em busca de migrar de área como desenvolvedor web Front-end/Back-end. 🚀<br> 
 
 ---
 
@@ -31,17 +31,12 @@
 />
 
 <br>
-
 <br>
 
 ### Redes Sociais!
 
 <div> 
-
-  <a href="https://www.instagram.com/_beto.farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:albertofarias07@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josé-alberto-b-farias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/josé-alberto-b-farias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
  
 
