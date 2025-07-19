@@ -1,7 +1,5 @@
 # 👨‍💻 José Alberto B Farias
 
-**`Estudante de Programação`**
-
 Me chamo José Alberto, tenho 34 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, estou em busca de migrar de área como desenvolvedor web Front-end/Back-end, focando meus estudos em aperfeiçoar meu conhecimento em HTML, CSS, JavaScript e React. 🚀 <br> 
 
 ---
