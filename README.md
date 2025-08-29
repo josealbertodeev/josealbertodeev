@@ -1,6 +1,6 @@
 # 👨‍💻 José Alberto B Farias
 
-👋 Olá, Me chamo José Alberto, tenho 34 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, Estudante de programação, estou em busca de migrar de área como desenvolvedor web Front-end/Back-end. 🚀<br> 
+👋 Olá, Me chamo José Alberto, tenho 35 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, Estudante de programação, estou em busca de migrar de área como desenvolvedor web Front-end. 🚀<br> 
 
 ---
 
@@ -28,6 +28,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <br>
