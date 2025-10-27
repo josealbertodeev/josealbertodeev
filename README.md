@@ -1,76 +1,63 @@
-# 👨‍💻 José Alberto B Farias
+# 👋 Olá, eu sou o José Alberto
 
-👋 Olá, Me chamo José Alberto, tenho 35 anos e moro em São Paulo. Formado em Controle e Automação pelo SENAI, Fascinado por tecnologia, Estudante de programação, estou em busca de migrar de área como desenvolvedor web Front-end. 🚀<br> 
+🎯 **Desenvolvedor Front-End** em evolução, apaixonado por transformar ideias em interfaces modernas e funcionais.  
+💡 Busco constantemente aprimorar minhas habilidades com **HTML, CSS, JavaScript e React**.  
+🚀 Atualmente estudando **componentização, consumo de APIs e boas práticas de UI/UX**.  
+🌱 Aberto a **oportunidades e colaborações** na área de front-end.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 🧰 Tecnologias e Ferramentas
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<br>
-<br>
-
-### Redes Sociais!
-
-<div> 
-  <a href="https://www.linkedin.com/in/joséalberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950354575)
+---
 
-### 📊 Estatísticas
+### 💻 Sobre mim
+- 🏡 Moro em São Paulo  
+- 🎓 Formado Técnico em Eletroeletrônica e Graduando em Engenharia de Controle e Automação (SENAI)  
+- 🎨 Gosto de desenvolver layouts **responsivos, limpos e bem estruturados**  
+- 🧠 Foco atual: **React, APIs e aprimoramento em JavaScript moderno (ES6+)**  
+- 💬 Curioso, comunicativo e sempre em busca de **boas práticas e novas ferramentas**  
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/joséalberto) | [E-mail](mailto:albertofarias07@hotmail.com)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=josealbertodeev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertodeev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+### 📊 Estatísticas do GitHub
+<div align="center">
+
+![José GitHub Stats](https://github-readme-stats.vercel.app/api?username=josealbertodeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertodeev&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josealbertodeev/josealbertodeev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josealbertodeev/josealbertodeev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josealbertodeev/josealbertodeev/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josealbertodeev/josealbertodeev/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+
+### 🌐 Portfólio
+🖥️ Veja meus projetos em: [portfólio](https://github.com/josealbertodeev?tab=repositories)  
+
+
+---
+
+### ✨ Curiosidades
+ 
+🎮 Curto games, tecnologia e desafios criativos  
+📘 Frase que me inspira: *“A prática leva ao domínio.”*
