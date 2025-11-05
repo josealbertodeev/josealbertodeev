@@ -24,7 +24,7 @@
 
 ### 💻 Sobre mim
 - 🏡 Moro em São Paulo  
-- 🎓 Formado Técnico em Eletroeletrônica e Graduando em Engenharia de Controle e Automação (SENAI)  
+- 🎓 Formado Técnico em Eletroeletrônica e Graduação em Controle e Automação (SENAI)  
 - 🎨 Gosto de desenvolver layouts **responsivos, limpos e bem estruturados**  
 - 🧠 Foco atual: **React, APIs e aprimoramento em JavaScript moderno (ES6+)**  
 - 💬 Curioso, comunicativo e sempre em busca de **boas práticas e novas ferramentas**  
