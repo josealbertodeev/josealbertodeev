@@ -28,7 +28,9 @@
 - 🎨 Gosto de desenvolver layouts **responsivos, limpos e bem estruturados**  
 - 🧠 Foco atual: **React, APIs e aprimoramento em JavaScript moderno (ES6+)**  
 - 💬 Curioso, comunicativo e sempre em busca de **boas práticas e novas ferramentas**  
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/josealbertofarias/) | [E-mail](mailto:albertofarias07@hotmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josealbertofarias/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertofarias07@hotmail.com)
 
 ---
 
