@@ -1,11 +1,18 @@
 # 👋 Olá, eu sou o José Alberto
+---
 
-🎯 **Desenvolvedor Front-End** em evolução, apaixonado por transformar ideias em interfaces modernas e funcionais.  
-💡 Busco constantemente aprimorar minhas habilidades com **HTML, CSS, JavaScript e React**.  
-🚀 Atualmente estudando **componentização, consumo de APIs e boas práticas de UI/UX**.  
-🌱 Aberto a **oportunidades e colaborações** na área de front-end.
+### 💻 Desenvolvedor Front-End 
+Apaixonado por tecnologia transformar ideias em interfaces modernas e funcionais.  
 
 ---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Cursando MBA Inteligência Artificial & Automação de Negócios  
+- 🎨 Gosto de desenvolver layouts **responsivos, limpos e bem estruturados**  
+- 🧠 Foco atual: **React, Typescript e IA**  
+- 💬 Curioso, comunicativo e sempre em busca de **boas práticas e novas ferramentas**
+- 💡 Busco constantemente aprimorar minhas habilidades.  
 
 ### 🧰 Tecnologias e Ferramentas
 <div>
@@ -21,14 +28,7 @@
 
 </div>
 
----
-
-### 💻 Sobre mim
-- 🏡 Moro em São Paulo  
-- 🎓 Formado Técnico em Eletroeletrônica e Graduação em Controle e Automação (SENAI)  
-- 🎨 Gosto de desenvolver layouts **responsivos, limpos e bem estruturados**  
-- 🧠 Foco atual: **React, APIs e aprimoramento em JavaScript moderno (ES6+)**  
-- 💬 Curioso, comunicativo e sempre em busca de **boas práticas e novas ferramentas**  
+--- 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josealbertofarias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertofarias07@hotmail.com)
@@ -54,13 +54,4 @@
 ---
 
 
-### 🌐 Portfólio
-🖥️ Veja meus projetos em: [portfólio](https://github.com/josealbertodeev?tab=repositories)  
 
-
----
-
-### ✨ Curiosidades
- 
-🎮 Curto games, tecnologia e desafios criativos  
-📘 Frase que me inspira: *“A prática leva ao domínio.”*
