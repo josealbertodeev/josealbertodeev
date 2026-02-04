@@ -36,8 +36,9 @@ Apaixonado por tecnologia transformar ideias em interfaces modernas e funcionais
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
 
+<div align="center">
+  
 ![José GitHub Stats](https://github-readme-stats.vercel.app/api?username=josealbertodeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertodeev&layout=compact&theme=tokyonight&hide_border=true)
 
