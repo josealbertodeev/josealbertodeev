@@ -19,13 +19,14 @@ Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíve
 ---
 
 ### 🧰 Tecnologias e Ferramentas
-
-**Front-End:**  
-![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E02C?style=for-the-badge&logo=javascript&logoColor=000000)
-![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=20232A)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</p>
 
 **Ferramentas:**  
 ![VSCode](https://img.shields.io/badge/VSCode-2C97D1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
