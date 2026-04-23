@@ -12,7 +12,7 @@ Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíve
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **MBA em IA & Automação de Negócios**
 - 🎨 Especialista em layouts **responsivos e bem estruturados**
-- 🧠 Foco atual: **React, TypeScript e IA**
+- 🧠 Foco atual: **Python, IA e Automacões**
 - 💬 Curioso, comunicativo e em constante aprendizado
 - 💡 Aprimorando habilidades todos os dias
 
