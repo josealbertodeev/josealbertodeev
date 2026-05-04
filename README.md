@@ -29,9 +29,16 @@ Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíve
 </p>
 
 **Ferramentas:**  
-![VSCode](https://img.shields.io/badge/VSCode-2C97D1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6F91?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-9B51E0?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
