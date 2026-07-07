@@ -44,7 +44,7 @@ Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíve
 
 ### 📊 Minhas Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=josealbertodeev&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=josealbertodeev&theme=midnight-purple )](https://git.io/streak-stats)
 
 ---
 
