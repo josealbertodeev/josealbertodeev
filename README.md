@@ -14,7 +14,6 @@ Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíve
 - 🎨 Especialista em layouts **responsivos e bem estruturados**
 - 🧠 Foco atual: **IA e Automacões**
 - 💬 Curioso, comunicativo e em constante aprendizado
-- 💡 Aprimorando habilidades todos os dias
 
 ---
 
