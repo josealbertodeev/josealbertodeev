@@ -15,10 +15,14 @@
 ---
 
 ### 👨‍💻 Sobre mim
+Venho de mais de 5 anos na área técnica industrial, com formação em Mecatrônica e Eletroeletrônica.
+Lá aprendi a diagnosticar problemas complexos e a resolvê-los com método. Hoje levo essa mentalidade
+para o desenvolvimento de software.
+
+- 💻 Crio aplicações web com **React, TypeScript e Node.js**, do layout à API
+- 🤖 Automatizo processos com **Google Apps Script, n8n e APIs de IA**
 - 🎓 Cursando **MBA em IA & Automação de Negócios**
-- 🎨 Interfaces **responsivas, acessíveis e bem estruturadas**
-- ⚙️ Construindo APIs com **Node.js, Prisma e MongoDB**
-- 💬 Curioso, comunicativo e em constante aprendizado
+- 🔎 Buscando minha primeira oportunidade como **Desenvolvedor Full Stack Jr**
 
 ---
 
