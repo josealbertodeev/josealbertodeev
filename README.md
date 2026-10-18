@@ -22,7 +22,7 @@ para o desenvolvimento de software.
 - 💻 Crio aplicações web com **React, TypeScript e Node.js**, do layout à API
 - 🤖 Automatizo processos com **Google Apps Script, n8n e APIs de IA**
 - 🎓 Cursando **MBA em IA & Automação de Negócios**
-- 🔎 Buscando minha primeira oportunidade como **Desenvolvedor Full Stack Jr**
+- 🔎 Buscando minha primeira oportunidade como **Desenvolvedor Full Stack**
 
 ---
 
