@@ -1,54 +1,55 @@
 # 👋 Olá, eu sou o José Alberto
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Desenvolvedor+Front-End;Transformando+pixels+em+experiências;Apaixonado+por+tecnologia" alt="Typing SVG">
-
----
-
-### 💻 Desenvolvedor Front-End
-Apaixonado por transformar ideias em interfaces modernas, funcionais e acessíveis.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=500&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+produtos;Apaixonado+por+tecnologia+e+IA" alt="Typing SVG">
 
 ---
 
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **MBA em IA & Automação de Negócios**
-- 🎨 Especialista em layouts **responsivos e bem estruturados**
-- 🧠 Foco atual: **IA e Automacões**
+- 🎨 Interfaces **responsivas, acessíveis e bem estruturadas**
+- ⚙️ Construindo APIs com **Node.js, Prisma e MongoDB**
 - 💬 Curioso, comunicativo e em constante aprendizado
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🧰 Tecnologias
 <p>
   <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS3"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
-**Ferramentas:**  
+**Ferramentas:**
 <p>
-  <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
-<!-- Figma -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-
-<!-- VS Code -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
+---
+
+### 🚀 Projetos em destaque
+- **[DevBills](https://github.com/josealbertodeev/devbills)**: API de finanças pessoais (Node, TypeScript, Prisma, MongoDB)
+- **[Projeto 2](link)**: uma linha de descrição
+- **[Projeto 3](link)**: uma linha de descrição
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=josealbertodeev&theme=radical )](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=josealbertodeev&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
 ### 🔗 Conecte-se comigo
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josealbertodeev.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josealbertofarias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertofarias07@hotmail.com)
 
