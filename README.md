@@ -1,6 +1,16 @@
-# 👋 Olá, eu sou o José Alberto
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=500&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+produtos;Apaixonado+por+tecnologia+e+IA" alt="Typing SVG">
+<table border="0">
+  <tr>
+    <td width="70%">
+      <h1>👋 Olá, eu sou o José Alberto</h1>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=false&width=500&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+produtos;Apaixonado+por+tecnologia+e+IA" alt="Typing SVG">
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="./avatar.png" width="180" style="border-radius: 50%;" alt="José Alberto - Anime Avatar">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,13 +41,6 @@
   <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
----
-
-### 🚀 Projetos em destaque
-- **[DevBills](https://github.com/josealbertodeev/devbills)**: API de finanças pessoais (Node, TypeScript, Prisma, MongoDB)
-- **[Projeto 2](link)**: uma linha de descrição
-- **[Projeto 3](link)**: uma linha de descrição
 
 ---
 
