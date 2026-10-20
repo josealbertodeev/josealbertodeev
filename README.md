@@ -1,13 +1,13 @@
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="62%">
       <h1>👋 Olá, eu sou o José Alberto</h1>
       <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=false&width=500&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+produtos;Apaixonado+por+tecnologia+e+IA" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=false&width=440&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+produtos;Apaixonado+por+tecnologia+e+IA" alt="Typing SVG">
       </p>
     </td>
-    <td width="30%" align="center">
-      <img src="./avatar-animado.svg" width="200" alt="José Alberto - Anime Avatar">
+    <td width="38%" align="center">
+      <img src="./avatar-animado.svg" width="260" alt="José Alberto - Anime Avatar">
     </td>
   </tr>
 </table>
