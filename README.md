@@ -7,7 +7,7 @@
       </p>
     </td>
     <td width="30%" align="center">
-      <img src="./avatar.png" width="180" style="border-radius: 50%;" alt="José Alberto - Anime Avatar">
+      <img src="./avatar-animado.svg" width="200" alt="José Alberto - Anime Avatar">
     </td>
   </tr>
 </table>
